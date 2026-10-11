@@ -1,0 +1,18 @@
+# Python dependencies for ResearchMind
+langchain>=1.0.0
+langchain-core>=1.0.0
+langchain-google-genai
+tavily-python>=0.3.0
+streamlit>=1.35.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=5.0.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+pandas>=2.0.0
+tiktoken>=0.6.0
+rich>=13.7.0
+tenacity>=8.2.0
+orjson>=3.9.0
+pydantic>=2.5.0
+html5lib>=1.1
